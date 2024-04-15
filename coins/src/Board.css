@@ -1,0 +1,8 @@
+.Board {
+  padding: 25px;
+  text-align: center;
+  border: 1px solid cadetblue;
+  padding-bottom: 50px;
+  border-radius: 15px;
+  margin: 10px;
+}
